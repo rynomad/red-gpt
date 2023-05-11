@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t red-gpt:latest .
+docker build -t red-gpt-project .
